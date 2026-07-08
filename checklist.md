@@ -1,4 +1,4 @@
-<h1>welcome to the checkh3st!</h1>
+<h1>welcome to the checklist!</h1>
 <h2>here i will set out all the steps in the processes that i've taken to build my project!</h2>
 <hr>
 <h3>a working area the size of a small desk that i don't use in my room</h3>
