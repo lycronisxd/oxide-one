@@ -33,7 +33,8 @@ i ended up measuring my desk to be around 480mm x 480mm of workspace, so the siz
 the height is also huge, but it will end up being necessary because of the whole laser assembly, filtration (if i add it), fume extraction etc.
 <br />
 <br />
-i had to learn what a gusset was for this so it better be worth it! im planning to 3d print the gussets for structural stability, then thread m5x10mm screws through with t-nuts to hold the enclosure in place
+for the frame, im planning to use 2040 aluminium extrusion since it should be rigid enough for the laser cutter without being awfully heavy or delicate.
+i also had to learn what a gusset was for this so it better be worth it! im planning to 3d print the gussets for structural stability, then thread m5x10mm screws through with t-nuts to hold the enclosure in place
 <br />
 <br />
 i want to add maybe a softwood or plywood sides to engrave some decals on the sides then use t-nuts to hold them in place or use a laser-safe translucent acrylic and then paint or engrave some decals with a stencil, but that'll all come when i'm done with everything.
