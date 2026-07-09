@@ -50,6 +50,10 @@ next, i think the right move is to design the x and y axis movement of the laser
 <hr>
 <h2>the movement mechanism</h2>
 <h3>entry 2 : june 9th (15:00 - 17:46)</h3>
+this might've been the worst 3 hours of my life as expected
+<img width="759" height="786" alt="image" src="https://github.com/user-attachments/assets/d7448cca-8c85-48c1-90b4-7fbc92763d5c" />
+<img width="1305" height="707" alt="image" src="https://github.com/user-attachments/assets/e5497fc3-9e5f-41db-a695-489d38ca3778" />
+
 
 <b>journal time - 2 hours 46  minutes</b>
 <br />
