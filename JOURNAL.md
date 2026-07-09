@@ -23,6 +23,7 @@ some of the things that i want out of my project are as follows ->
 <b>total time - 17 minutes</b>
 
 <hr>
+<h2>the frame!</h2>
 <h3>entry 2 : june 9th (11:46 - 14:31)</h3>
 after nearly 3 gruelling hours of modelling on onshape. ive come up with a design for an enclosure
 <img width="785" height="778" alt="image" src="https://github.com/user-attachments/assets/4a55d868-6f30-403e-ac50-5f3413d07de7" />
@@ -46,3 +47,6 @@ next, i think the right move is to design the x and y axis movement of the laser
 <b>journal time - 2 hours 45  minutes</b>
 <br />
 <b>total time - 3 hours 2 minutes</b>
+<hr>
+<h2>the movement mechanism</h2>
+<h3>entry 2 : june 9th (15:00 - in progress)</h3>
