@@ -21,3 +21,6 @@ some of the things that i want out of my project are as follows ->
 <b>journal time - 17 minutes</b>
 <br />
 <b>total time - 17 minutes</b>
+
+<hr>
+<h3>entry 2 : june 9th (11:46 - in progress)</h3>
