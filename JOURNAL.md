@@ -49,4 +49,8 @@ next, i think the right move is to design the x and y axis movement of the laser
 <b>total time - 3 hours 2 minutes</b>
 <hr>
 <h2>the movement mechanism</h2>
-<h3>entry 2 : june 9th (15:00 - in progress)</h3>
+<h3>entry 2 : june 9th (15:00 - 17:46)</h3>
+
+<b>journal time - 2 hours 46  minutes</b>
+<br />
+<b>total time - 5 hours 48 minutes</b>
