@@ -8,6 +8,15 @@
 </ul>
 
 <h3>an aluminium frame because it'll last a while and i can design an axis movement system around the frame</h3>
+<ul>
+  <li>evaluating viability ✔️</li>
+  <li>choosing extrusion ✔️</li>
+  <li>frame cad modelling ✔️</li>
+  <li>research x and y axis system ❌</li>
+  <li>cad model x and y axis system ❌</li>
+  <li>research enclosure wall materials ❌</li></li>
+  <li>cad model enclosure side and top walls ❌</li>
+</ul>
 <h3>a weak-ish diode laser (10-20w) because it'll mainly be used on thin enough plywood for projecting</h3>
 <h3>stepper motors to control the axes precisely</h3>
 <h3>custom esp32 driver board running grbl for cnc control</h3>
