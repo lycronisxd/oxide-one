@@ -49,12 +49,34 @@ next, i think the right move is to design the x and y axis movement of the laser
 <b>total time - 3 hours 2 minutes</b>
 <hr>
 <h2>the movement mechanism</h2>
-<h3>entry 2 : june 9th (15:00 - 17:46)</h3>
+<h3>entry 3 : june 9th (15:00 - 17:46)</h3>
 this might've been the worst 3 hours of my life as expected
 <img width="759" height="786" alt="image" src="https://github.com/user-attachments/assets/d7448cca-8c85-48c1-90b4-7fbc92763d5c" />
 <img width="1305" height="707" alt="image" src="https://github.com/user-attachments/assets/e5497fc3-9e5f-41db-a695-489d38ca3778" />
-
+<br />
+so i decided to use a new assembly for the movement mechanism because i thought it would be a good idea to seperate the mechanism from the main assembly then port it over (it was not.)
+<br />
+<br />
+decided to use mgn12h linear rails for the movement mechanism and am planning to use 2 motors for the y axis movement and 1 motor for the x axis
+<br />
+<br />
+also decided on a laser in the meantime to know height clearance, custom mounting bracket model etc. which is the 20W laser tree 4lds v2! i actually love that the 4lds v2 comes with the height adjustable bracket and all i needed to do was design an easily 3d printed part to attach it to the mgn12 carriage :)
+<br />
+<br />
+figuring out how far up the rails would need to be was the next issue, because it always looked way too short, but alas i found a good looking spot with about 60mm of air clearance between the laser and cutting bed, but the gussets were in the way and would not let me mount another rail to the enclosure, so i had to model new gussets for the sides and FINALLY i could finish attaching this demon spawn of a mechanism!
+<br /><br />
 
 <b>journal time - 2 hours 46  minutes</b>
 <br />
 <b>total time - 5 hours 48 minutes</b>
+
+<h3>entry 3.1 : june 9th (21:15 - 22:33)</h3>
+so this is kinda an entry but kinda not but i spent a lot of time on this and im angry because my ASSEMBLY BROKE AND I HAD TO SPEND AN HOUR REBUILDING THE MOVEMENT MECHANISM
+<br />
+<br />
+i hate onshape
+<br />
+<br />
+<b>journal time - 1 hours 18  minutes</b>
+<br />
+<b>total time - 7 hours 6 minutes</b>
